@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm alkogenius 👋
 
-<!--
-**alkogenius/alkogenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer specializing in healthcare projects. I love building solutions that make people's lives easier and more accessible.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Java, Python, TypeScript
+- **Frameworks:** Vue.js, Spring Boot 3, Django Rest Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Projects
+- **Self-service Doctor Appointment System**  
+  Developed an online system for booking appointments with doctors in regional hospitals, helping patients quickly and conveniently schedule their visits.
+
+## 📫 Contact Me
+- [Telegram](https://t.me/a1kogenius) — always open to connect!
+
+## 🎶 About Me
+Outside of work, I'm passionate about music: playing, listening, and finding inspiration in it.
+
+---
+
+Open to new connections and interesting challenges!
