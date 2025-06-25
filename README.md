@@ -1,4 +1,4 @@
-# Hi there! I'm alkogenius 👋
+# Hi there! I'm Nick 👋
 
 I'm a full-stack developer specializing in healthcare projects. I love building solutions that make people's lives easier and more accessible.
 
